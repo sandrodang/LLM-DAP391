@@ -1,0 +1,375 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Th&#432; vi&#7879;n s&#7889; - H&#7885;c vi&#7879;n B&#225;o ch&#237; v&#224; Tuy&#234;n truy&#7873;n: Log In</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="Generator" content="DSpace 5.10" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175160886-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175160886-1');
+</script>
+
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+	    <link rel="stylesheet" href="/dspace/static/css/jquery-ui-1.10.3.custom/redmond/jquery-ui-1.10.3.custom.css" type="text/css" />
+	    <link rel="stylesheet" href="/dspace/static/css/bootstrap/bootstrap.min.css" type="text/css" />
+	    <link rel="stylesheet" href="/dspace/static/css/bootstrap/bootstrap-theme.min.css" type="text/css" />
+	    <link rel="stylesheet" href="/dspace/static/css/bootstrap/dspace-theme.css" type="text/css" />
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/dspace/open-search/description.xml" title="DSpace"/>
+
+        
+	<script type='text/javascript' src="/dspace/static/js/jquery/jquery-1.10.2.min.js"></script>
+	<script type='text/javascript' src='/dspace/static/js/jquery/jquery-ui-1.10.3.custom.min.js'></script>
+	<script type='text/javascript' src='/dspace/static/js/bootstrap/bootstrap.min.js'></script>
+	<script type='text/javascript' src='/dspace/static/js/holder.js'></script>
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    <script type="text/javascript" src="/dspace/static/js/choice-support.js"> </script>
+
+    
+    
+    
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/dspace/static/js/html5shiv.js"></script>
+  <script src="/dspace/static/js/respond.min.js"></script>
+<![endif]-->
+    </head>
+
+    
+    
+    <body class="undernavigation">
+<a class="sr-only" href="#content">Skip navigation</a>
+<header class="navbar navbar-inverse navbar-fixed-top">    
+    
+            <div class="container">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+         <a class="navbar-brand" href="/dspace/"><img height="25" src="/dspace/image/logoajc.svg" alt="DSpace logo" /></a>
+       </div>
+       <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+         <ul class="nav navbar-nav">
+           <li class=""><a href="/dspace/"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+                
+           <li class="dropdown">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Browse <b class="caret"></b></a>
+             <ul class="dropdown-menu">
+               <li><a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a></li>
+				<li class="divider"></li>
+        <li class="dropdown-header">Browse Items by:</li>
+				
+				
+				
+				      			<li><a href="/dspace/browse?type=dateissued">Issue Date</a></li>
+					
+				      			<li><a href="/dspace/browse?type=author">Author</a></li>
+					
+				      			<li><a href="/dspace/browse?type=title">Title</a></li>
+					
+				      			<li><a href="/dspace/browse?type=subject">Subject</a></li>
+					
+				    
+				
+
+            </ul>
+          </li>
+<!--
+
+		  <li class="dropdown">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gi&#7899;i thi&#7879;u <b class="caret"></b></a>
+             <ul class="dropdown-menu">
+               <li><a href="/dspace/quatrinhhinhthanh.jsp">Qu&#225; tr&#236;nh h&#236;nh th&#224;nh <br/>v&#224; ph&#225;t tri&#7875;n</a></li>
+				<li class="divider"></li>
+				<li><a href="/dspace/chucnang.jsp">Ch&#7913;c n&#259;ng, nhi&#7879;m v&#7909;</a></li>
+				<li class="divider"></li>
+
+
+				<li><a href="/dspace/cocautochuc.jsp">C&#417; c&#7845;u t&#7893; ch&#7913;c</a></li>
+				<li class="divider"></li>
+
+
+				<li><a href="/dspace/noiquy.jsp">N&#7897;i quy trung t&#226;m</a></li>
+</ul>
+          </li>
+
+-->
+  <li class="dropdown">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Help <b class="caret"></b></a>
+             <ul class="dropdown-menu">
+
+
+ 			<li><a href="/dspace/huongdan.jsp">User guide</a></li>
+			<li class=""><script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Online document viewer<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Online document viewer</a></noscript></li>
+
+
+
+</ul>
+          </li>
+
+<!--
+
+          <li class=""><script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript></li>
+       </ul>
+-->
+
+ 
+    <div class="nav navbar-nav navbar-right">
+	 <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Language<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+ 
+      <li>
+        <a onclick="javascript:document.repost.locale.value='vi';
+                  document.repost.submit();" href="/dspace?locale=vi">
+         Tiếng Việt
+       </a>
+      </li>
+ 
+      <li>
+        <a onclick="javascript:document.repost.locale.value='en';
+                  document.repost.submit();" href="/dspace?locale=en">
+         English
+       </a>
+      </li>
+ 
+     </ul>
+    </li>
+    </ul>
+  </div>
+ 
+ 
+       <div class="nav navbar-nav navbar-right">
+		<ul class="nav navbar-nav navbar-right">
+			<!-- Dongpn them -->
+	
+		 <li class="dropdown">
+				 <a href="/dspace/register"><span class="glyphicon glyphicon-pencil"></span>&nbsp;Register</a>
+		 </li>
+	
+	<!-- Dongpn them -->
+
+
+         <li class="dropdown">
+         
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span> Sign on to: <b class="caret"></b></a>
+	             
+             <ul class="dropdown-menu">
+               <li><a href="/dspace/mydspace">My DSpace</a></li>
+               <li><a href="/dspace/subscribe">Receive email<br/>updates</a></li>
+               <li><a href="/dspace/profile">Edit Profile</a></li>
+
+		
+             </ul>
+           </li>
+          </ul>
+          
+	
+	<form method="get" action="/dspace/simple-search" class="navbar-form navbar-right">
+	    <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search&nbsp;DSpace" name="query" id="tequery" size="30"/>
+        </div>
+        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
+
+	</form></div>
+    </nav>
+
+            </div>
+
+</header>
+
+<main id="content" role="main">
+	 <div class="container" > <img class="img-responsive" style="padding-left:0px;padding-right:0px" src="/dspace/image/dspaceque4.gif"> </div>
+<!--
+<div class="container banner">
+	<div class="row">
+		<div class="col-md-9 brand">
+		<h1>DSpace <small>JSPUI</small></h1>
+        <h4>DSpace preserves and enables easy and open access to all types of digital content including text, images, moving images, mpegs and data sets</h4> <a href="http://www.dspace.org" class="btn btn-primary">Learn More</a> 
+        </div>
+		<!--
+        <div class="col-md-3"><img class="pull-right" src="/dspace/image/logo.gif" alt="DSpace logo" />
+        </div> 
+	</div>
+</div>	-->
+<br/> 
+                
+
+
+
+        
+<div class="container">
+		
+
+
+
+
+
+
+    
+
+
+
+
+
+	<div class="panel panel-primary">
+        <div class="panel-heading">Log In to DSpace
+        <span class="pull-right"><script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html#login\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;"><span class="glyphicon glyphicon-question-sign"></span><\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html#login" target="dspacepopup"><span class="glyphicon glyphicon-question-sign"></span></a></noscript></span>
+        </div>
+	    
+
+  
+
+	<div class="panel-body">
+     <form name="loginform" class="form-horizontal" id="loginform" method="post" action="/dspace/password-login">  
+      <p><strong><a href="/dspace/register">New user? Click here to register.</a></strong></p>
+	  <p>Please enter your e-mail address and password into the form below.</p>
+		<div class="form-group">
+            <label class="col-md-offset-3 col-md-2 control-label" for="tlogin_email">E-mail Address:</label>
+            <div class="col-md-3">
+            	<input class="form-control" type="text" name="login_email" id="tlogin_email" tabindex="1" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-offset-3 col-md-2 control-label" for="tlogin_password">Password:</label>
+            <div class="col-md-3">
+            	<input class="form-control" type="password" name="login_password" id="tlogin_password" tabindex="2" />
+            </div>
+        </div>
+        <div class="row">
+        <div class="col-md-6">
+        	<input type="submit" class="btn btn-success pull-right" name="login_submit" value="Log In" tabindex="3" />
+        </div>
+        </div>
+  		<p><a href="/dspace/forgot">Have you forgotten your password?</a></p>
+      </form>
+      <script type="text/javascript">
+		document.loginform.login_email.focus();
+	  </script>
+	</div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+</div>
+</main>
+            
+             <footer class="navbar navbar-inverse navbar-bottom">
+             <div id="designedby" class="container text-muted">
+             Theme by <a href="http://www.cineca.it"><img
+                                    src="/dspace/image/logo-cineca-small.png"
+                                    alt="Logo CINECA" /></a>
+			<div id="footer_feedback" class="pull-right">                                    
+                                <p class="text-muted"><P ALIGN="Right"><B>&nbsp;&copy;2013 - 2024 TH&#431; VI&#7878;N S&#7888; H&#7884;C VI&#7878;N B&#193;O CH&#205; V&#192; TUY&#202;N TRUY&#7872;N </B><BR>&#272;&#7883;a ch&#7881;: 36 - Xu&#226;n Th&#7911;y - C&#7847;u Gi&#7845;y - H&#224; N&#7897;i <BR>&#272;i&#7879;n tho&#7841;i: 02438340041 - Email: thuvienhvbctt@gmail.com&nbsp;-
+                                <a target="_blank" href="/dspace/feedback">Feedback</a>
+                                <a href="/dspace/htmlmap"></a></p>
+                                </div>
+
+			
+			<div id="footer_feedback" class="pull-right">                                    
+                               <script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="counter statistics" ><script  type="text/javascript" >
+try {Histats.start(1,3111414,4,30,130,80,"00011111");
+Histats.track_hits();} catch(err){};
+</script></a>
+
+
+
+ <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3111414,4,30,130,80,00011111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3111414&101" alt="website statistics" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+
+
+
+                                </div></div>
+    </footer>
+    </body>
+</html>
