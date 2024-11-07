@@ -1,2 +1,2 @@
-## Question-answer generation using LLMs for Vietnamese subject Marxism-Leninism Philosophy.
+## Question-answer generation for Vietnamese subject Marxism-Leninism Philosophy.
 
